@@ -5,7 +5,7 @@ All electronic goods and retail and wholesale
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <>Chandrika Enterprises | Electrical Retail & Services</title>
+  Chandrika Enterprises | Electrical Retail & Services</title>
   <style>
     body {
       font-family: "Segoe UI", Arial, sans-serif;
