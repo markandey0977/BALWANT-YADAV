@@ -165,10 +165,7 @@ All electronic goods and retail and wholesale
     <form>
       <input type="text" placeholder="Your Name" required />
       <input type="email" placeholder="Your Email" required />
-      <textarea rows="5" placeholder="Your Message" required></textarea>
-      <button type="submit">Send Message</button>
-    </form>
-    <p>📍 Address: (Rakhiya Barahata Captainganj Basti)</p>
+      📍 Address: (Rakhiya Barahata Captainganj Basti)</p>
     <p>📞 Phone: (7905651485)</p>
     <p>✉️ Email: (sy113374@gmail.com)</p>
   </section>
